@@ -1,2 +1,7 @@
 # P8-T4-AndreiBataiosuCiobanica
-student managament system
+
+Andrei Ana-Maria Violeta
+Bătăiosu Corina-Elena
+Ciobănică Crenguța
+
+Student managament system
